@@ -1,4 +1,3 @@
-DANI, [6/9/2022 10:38 PM]
 #include "lists.h"
 /**
  *insert_dnodeint_at_index- inserts node anywear.
